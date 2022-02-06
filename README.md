@@ -3,7 +3,6 @@
 This Project is to show the accounts from which amount should be deducted.
 
 * Ruby version: 2.5.3
-* 
 * Rails version: 6.0.4.4
 
 * Configuration
